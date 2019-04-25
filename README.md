@@ -1,18 +1,18 @@
 vyomaX
 
 This is the final project of LaunchCode Unit-4 Liftoff class for front-end development.
-Uses  React, Apollo and graphQL with Bootswatch styling.
+Uses  React, Apollo and graphQL along with Bootswatch for styling.
 Created by Radhakrishnan Pillai for LaunchCode (Kansas City, MO) Unit-4 Liftoff.
 
-- This app is called “VyomaX” since 'vyoma' in sanskrit means space.
+- This app is called “vyomaX” since 'vyoma' is a synonym for  space in 'Sanskrit'.
 
-- VyomaX uses open source SpaceX API for rocket, core, capsule, pad, and launch data
+- VyomaX uses open source SpaceX API for details rocket, core, capsule, pad, and launch data
    from https://docs.spacexdata.com
 
 - This application will be non-editable.
 
 Discover all the interesting details about capsules, cores, landpads, launches, missions, payloads and rockets.
-The Goal is to provide details about spaceX missions:
+The Goal is to provide information about spaceX missions such as :
 
 - Launch Type:
 - Rocket Type:
@@ -35,9 +35,9 @@ Things you need to install the software and how to install them:
 
 Installing:
 
-A step by step examples that tell you how to get the game going:
+A step by step examples that tell you how to install:
 * Clone or Download a copy from the Github: https://github.com/srpillai/vyomax.git
-* go the cloned or downloaded page in Terminal as in example:  cd desktop/lc101/liftoff/react-projects/vyomax
+* Go or CD  to the cloned or downloaded page in Terminal as in example:  cd desktop/lc101/liftoff/react-projects/vyomax
 
 Start by:
 *  yarn install (first time only)
@@ -48,12 +48,13 @@ Built With:
 * React - The front-end library
 * Apollo - React
 * graphQL
+* Bootswatch (for styling)
 
 Contributing:
 
-* Created as part of LaunchCode unit-4 Liftoff front-end development course
+* Created as part of LaunchCode (Kansas City, MO) unit-4 Liftoff front-end development course
 
-Authors:
+Author:
 
 * Radhakrishnan Pillai - Initial work - LaunchCoder 2019
 
