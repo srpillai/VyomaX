@@ -4,12 +4,12 @@ This is the final project of LaunchCode Unit-4 Liftoff class for front-end devel
 Uses  React, Apollo and graphQL along with Bootswatch for styling.
 Created by Radhakrishnan Pillai for LaunchCode (Kansas City, MO) Unit-4 Liftoff.
 
-- This app is called “vyomaX” since 'vyoma' is a synonym for  space in 'Sanskrit'.
-
 - VyomaX uses open source SpaceX API for details rocket, core, capsule, pad, and launch data
-   from https://docs.spacexdata.com
+   from https://docs.spacexdata.com.
 
 - This application will be non-editable.
+
+- This app is called “vyomaX” since 'vyoma' is a synonym for  space in 'Sanskrit'.
 
 Discover all the interesting details about capsules, cores, landpads, launches, missions, payloads and rockets.
 The Goal is to provide information about spaceX missions such as :
@@ -31,7 +31,7 @@ Prerequisites:
 Things you need to install the software and how to install them:
 
 * You will need a chrome or similar browser
-
+* npm or yarn installed
 
 Installing:
 
@@ -46,8 +46,8 @@ Start by:
 Built With:
 
 * React - The front-end library
-* Apollo - React
-* graphQL
+* Apollo React - for pagination similar to Redux
+* graphQL - backend
 * Bootswatch (for styling)
 
 Contributing:
