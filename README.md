@@ -18,7 +18,7 @@ The Goal is to provide information about spaceX missions such as :
 - Rocket Type:
 - Mission Name:
 - Launch Date:
-- Sucess Info:
+- Sucess Info.
 
 Getting Started:
 
